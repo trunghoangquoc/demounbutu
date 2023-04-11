@@ -10,6 +10,7 @@ public class TestGit {
 
         String d = new String();
         String e = new String();
+        String f = new String();
     }
 
     public String testGit(){

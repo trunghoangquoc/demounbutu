@@ -15,7 +15,6 @@ public class TestGit {
     public String testGit(){
 
         String a = new String();
-        String b = new  String();
 
         return "";
     }
